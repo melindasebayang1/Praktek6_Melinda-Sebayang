@@ -1,0 +1,3 @@
+interface Connectable {
+    void connectWifi();
+}
